@@ -28,13 +28,13 @@ def setup_directory():
             shutil.rmtree(dir_file)
     os.makedirs("processed")
     p = subprocess.Popen(["git", "clone",
-            "https://github.com/MasterOdin/Cookbook"],
+            "https://github.com/MasterOdin/moms_recipes"],
             stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     p.wait()
     #print(Fore.GREEN + "DONE" + Fore.RESET)
 
 
-def process_files(categories, recipes, get_dir="Cookbook"):
+def process_files(categories, recipes, get_dir="moms_recipes"):
     #if get_dir == "Cookbook":
     #    print("Processing all the files...", end="")
     dir_files = os.listdir(get_dir)
@@ -108,7 +108,7 @@ def compound_keywords(keyword1, keyword2):
 
 def generate_cookbook(categories, recipes):
     main_index = open("index.html", "w")
-    main_index.write("<h1>Cookbook</h1><br />\n")
+    main_index.write("<h1>Mom's Recipes</h1><br />\n")
     for key in sorted(categories.keys()):
         if len(categories[key]) > 0:
             path = os.path.join(URL, key)
