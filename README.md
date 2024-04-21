@@ -1,12 +1,11 @@
 # Mom's Recipes
 <HR>
 
-```
-c. = cup
-T. = tablespoon
-t. = teaspoon
-```
 
+**c.** = cup <BR>
+**T.** = tablespoon<BR>
+**t.** = teaspoon<BR>
+<HR>
 
 |  Appetizers/Garnishes Accompaniments | |
 |----------|----------|
