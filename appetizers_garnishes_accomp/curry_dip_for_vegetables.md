@@ -1,6 +1,7 @@
 Curry Dip for Vegetables
-========================
+<HR>
 
+```
 1 c. mayonnaise
 1 t. lemon juice
 1, 1/2 tsp curry powder (may want more)
@@ -9,3 +10,4 @@ Curry Dip for Vegetables
 1/2 tsp. tabasco sauce
 1/4 tsp. chili sauce
 salt + pepper to taste
+```

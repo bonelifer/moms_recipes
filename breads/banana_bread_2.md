@@ -1,6 +1,8 @@
-Banana Bread
-============
+# Banana Bread
+<HR>
 
+## Ingredients
+```
 1/3 c. shortening
 1-1/2 c. flour, sifted
 3/4 c. light brown sugar
@@ -10,7 +12,8 @@ Banana Bread
 2 eggs
 1/2 c. milk
 1/2 c. chopped nuts (optional)
-
+```
+## Directions
 1. Cream the shortening with sugar.
 2. Add the mashed bananas & eggs.
 3. Sift the flour with salt & baking soda & add to the creamed mixture, alternating with the milk.
@@ -19,4 +22,4 @@ Banana Bread
 6. Turn out & cool on rack; wrap in aluminum foil.
 7. This bread slices better the second day.
 
-Yield: 1 loaf
+**Yield:** 1 loaf

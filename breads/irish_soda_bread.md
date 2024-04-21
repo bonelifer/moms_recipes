@@ -1,6 +1,8 @@
-Irish Soda Bread
-================
+# Irish Soda Bread
+<HR>
 
+## Ingredients
+```
 4 c. flour
 1 c. sugar
 1 t. salt
@@ -9,7 +11,9 @@ Irish Soda Bread
 1 T. caraway seeds
 1 c. raisins (optional)
 1 c. sour milk
+```
 
+## Directions
 1. Sift together dry ingredients.
 2. Add corn oil and mix with fork on pastry blender until mixture is well-blended & looks like fine crumbs.
 3. Stir in caraway seeds & raisins.

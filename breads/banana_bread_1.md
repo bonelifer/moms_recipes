@@ -1,6 +1,8 @@
-Banana Bread
-============
+# Banana Bread
+<HR>
 
+## Ingredients
+```
 1/2 c. shortening
 2 c. flour
 1 c. sugar
@@ -10,7 +12,8 @@ Banana Bread
 1 c. mashed up bananas
 1 c. nuts, chopped
 1 t. lemon juice
-
+```
+## Directions
 1. Cream shortening and sugar.
 2. Beat eggs until light & add .
 3. Press bananas through sieve & add lemon juice.
@@ -19,4 +22,4 @@ Banana Bread
 6. Add nuts.
 7. Bake in greased loaf pan at 325°F about 1-1/4 hrs.
 
-Yields: 1 loaf
+**Yields:** 1 loaf

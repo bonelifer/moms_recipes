@@ -1,8 +1,9 @@
-Corn Cakes (Nunn Better Recipe)
-===============================
+# Corn Cakes (Nunn Better Recipe)
+<HR>
 
-Note: Nunn Better is a brand of cornmeal mix
-
+## Ingredients
+**Note:** Nunn Better is a brand of cornmeal mix
+```
 1/2 c. cornmeal
 3/4 c. sweat milk, cold
 1/2 T. sugar
@@ -11,7 +12,9 @@ Note: Nunn Better is a brand of cornmeal mix
 1 c. flour
 2 t. baking powder
 1 egg, well-beaten
+```
 
+## Directions
 1. Put cornmeal, sugar & salt in bowl & pour boiling water over them.
 2. Let stand until meal swells then add milk.
 3. When cool, stir in flour & baking powder & mix well.

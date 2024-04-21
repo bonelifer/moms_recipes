@@ -1,6 +1,8 @@
-Oat-Bran Muffins
-================
+# Oat-Bran Muffins
+<HR>
 
+## Ingredients
+```
 1.5 c. oat-bran cereal
 1 c. unbleached flour
 1 c. wheat-bran cereal
@@ -10,7 +12,9 @@ Oat-Bran Muffins
 1 whole egg plus 2 egg whites
 0.25 cup vegetable oil
 1 c. buttermilk
+```
 
+## Directions
 1. In a mixing bowl, combine oat-bran cereal, unbleached flour, wheat-bran cereal, baking powder, and baking soda
 2. In separate bowl, beat together brown sugar, egg and egg whites, oil, and buttermilk.
 3. Lightly stir buttermilk mixture into dry ingredients just until moistened. (Do not overmix)

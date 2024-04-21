@@ -1,13 +1,17 @@
-Hush Puppies
-============
+# Hush Puppies
+<HR>
 
+## Ingredients
+```
 2 c. white cornmeal
 2 t. baking powder
 1 t. salt
 1-1/2 c. milk
 1/2 c. water
 1 lg onion chopped fine
-
+```
+  
+## Directions
 1. Sift dry ingredients together and add milk & water.
 2. Stir in chopped onion.
 3. Add more meal or milk if necessary to form a soft but workable dough.
